@@ -1,3 +1,29 @@
+# awesome-deepseek-integration
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Integrate the DeepSeek API into popular software
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把 DeepSeek API 集成到常用软件的清单。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <p align="center">
